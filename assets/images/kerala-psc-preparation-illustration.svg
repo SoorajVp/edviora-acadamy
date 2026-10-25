@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="400" viewBox="0 0 480 400">
+  <!-- Original illustration created for the Edviora Acadamy website. Free to modify or replace. -->
+  <rect width="480" height="400" rx="36" fill="#0B3470"/>
+  <circle cx="420" cy="60" r="80" fill="#315EF4" opacity=".25"/>
+  <circle cx="60" cy="360" r="60" fill="#F4B860" opacity=".12"/>
+
+  <!-- Clipboard checklist -->
+  <rect x="80" y="70" width="190" height="270" rx="18" fill="#FFFFFF"/>
+  <rect x="135" y="52" width="80" height="36" rx="10" fill="#F4B860"/>
+  <rect x="155" y="62" width="40" height="8" rx="4" fill="#10233F" opacity=".5"/>
+  <rect x="108" y="112" width="110" height="12" rx="6" fill="#10233F"/>
+  <g>
+    <rect x="108" y="150" width="24" height="24" rx="7" fill="#315EF4"/>
+    <path d="M114 162l4 4 8-8" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="144" y="157" width="96" height="10" rx="5" fill="#EAF2FF"/>
+    <rect x="108" y="192" width="24" height="24" rx="7" fill="#315EF4"/>
+    <path d="M114 204l4 4 8-8" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="144" y="199" width="80" height="10" rx="5" fill="#EAF2FF"/>
+    <rect x="108" y="234" width="24" height="24" rx="7" fill="#315EF4"/>
+    <path d="M114 246l4 4 8-8" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="144" y="241" width="90" height="10" rx="5" fill="#EAF2FF"/>
+    <rect x="109.5" y="277.5" width="21" height="21" rx="6" fill="none" stroke="#C7D7FF" stroke-width="3"/>
+    <rect x="144" y="283" width="70" height="10" rx="5" fill="#EAF2FF"/>
+  </g>
+
+  <!-- Clock -->
+  <circle cx="356" cy="140" r="56" fill="#FFFFFF"/>
+  <circle cx="356" cy="140" r="46" fill="none" stroke="#EAF2FF" stroke-width="6"/>
+  <path d="M356 108v32l22 14" fill="none" stroke="#10233F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="356" cy="140" r="6" fill="#315EF4"/>
+
+  <!-- Target -->
+  <circle cx="360" cy="286" r="54" fill="#315EF4"/>
+  <circle cx="360" cy="286" r="38" fill="#FFFFFF"/>
+  <circle cx="360" cy="286" r="22" fill="#315EF4"/>
+  <circle cx="360" cy="286" r="8" fill="#F4B860"/>
+  <path d="M360 286l52-52" stroke="#F4B860" stroke-width="5" stroke-linecap="round"/>
+  <path d="M404 228l14-4-4 14z" fill="#F4B860" stroke="#F4B860" stroke-width="4" stroke-linejoin="round"/>
+</svg>
